@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  color: #fff;
+  padding: 1rem;
+}
+.success {
+  background: #54d175;
+}
+.error {
+  background: #de2f26;
+}
+.loading {
+  color: #ccc;
+}
